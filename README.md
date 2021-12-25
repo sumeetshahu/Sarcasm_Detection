@@ -10,7 +10,7 @@ Sarcasm detection is a very narrow research field in NLP, a specific case of sen
 </ul>
 Sarcasm detection is of great importance in understanding people’s true sentiments and opinions. Application of sarcasm detection can benefit many areas of interest of NLP applications, including marketing research, opinion mining and information categorization.
 <br>
- 
+<br>
 <b> Business Problem </b> <br>
 Develop a ML/DL model which performs as well as humans in identifying if a text/comment is sarcastic or not. <br>
 
@@ -35,7 +35,7 @@ Since, the dataset is perfectly balanced accuracy was considered as the main eva
 Various Machine Learning and Deep Learning models were tried for this project. Here are the results: <br>
 ![Capture2](https://user-images.githubusercontent.com/32812509/147382767-8a82dd05-d10e-451d-b023-210352c97cc3.PNG)
 
-Web Application Demo: https://youtu.be/hkByB9ExUB0
+<b> Web Application Demo: </b> https://youtu.be/hkByB9ExUB0
 
 
 
