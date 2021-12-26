@@ -35,7 +35,7 @@ Since, the dataset is perfectly balanced accuracy was considered as the main eva
 Various Machine Learning and Deep Learning models were tried for this project. Here are the results: <br>
 ![Capture2](https://user-images.githubusercontent.com/32812509/147382767-8a82dd05-d10e-451d-b023-210352c97cc3.PNG)
 
-<b> Web Application Demo: </b> https://youtu.be/hkByB9ExUB0
+<b> Web Application Demo: </b> https://www.youtube.com/watch?v=xlVbtwqkSO0
 
 
 
